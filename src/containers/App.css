@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Imported;
+  src: url(./gaela/GAELA.otf);
+}
+
+h1{
+  font-weight: 700;
+  font-family: Imported;
+  color:black;
+}
+
+.quotes{
+ font-family:Imported;
+ font-size:20px;
+ color:black; 
+}

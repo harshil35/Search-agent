@@ -1,0 +1,14 @@
+.outer{
+  background-color: white;
+  padding:16px;
+  margin-bottom:16px;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.1s;
+}
+
+.outer:hover{
+  font-weight: 700;
+  transform: scale(1.05);
+}
+
